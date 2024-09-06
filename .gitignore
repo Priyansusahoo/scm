@@ -1,3 +1,3 @@
-scm/node_modules
-scm/target
+scm/node_modules/
 scm/.idea/
+scm/target/
